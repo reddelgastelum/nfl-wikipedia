@@ -1,0 +1,16 @@
+{
+  "name": "nfl-wikipedia",
+  "version": "1.0.0",
+  "description": "A node scraper to get nfl data from wikipedia.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Reddel Gastelum",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "sleep": "^5.1.1",
+    "sync-request": "^4.1.0"
+  }
+}
